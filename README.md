@@ -17,7 +17,7 @@ Welcome to my github profile!
 
 - ⚡ Fun fact: I love cat's, coffee and i dream with an internaction trip to USA someday, maybe NY.
 
-🔭🔭🔭🔭🔭 Techs that i know about 🔭🔭🔭🔭🔭
+🌱 Techs that i know about 🌱
       
 <div>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> 
@@ -32,7 +32,7 @@ Welcome to my github profile!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"  width="40" height="40"/>
  </div>
                                         
-🌱🌱🌱🌱🌱 Techs that i'm learning about 🌱🌱🌱🌱🌱
+🌱 Techs that i'm learning about 🌱
     
   <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  width="40" height="40"/>
