@@ -11,7 +11,7 @@ Welcome to my github profile!
 
 - 💬 Ask me about anything you want and i will answer as soon as i can. 
 
-- 📫 How to reach me: You can contact-me in my website: www.marcelomodesti.com - Or e-mail: marcelomodesti1988@gmail.com
+- 📫 How to reach me: You can contact me through the links at the end of this section.
 
 - 😄 Pronouns: I like to be called by the pronouns He/His
 
@@ -41,4 +41,8 @@ Welcome to my github profile!
 <a href="https://instagram.com/modestimarceloteixeira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:marcelomodesti1988@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/macelomodesti/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+ 
+ 
+ <a href="https://www.marcelomodesti.com" target="_blank">www.marcelomodesti.com</a>   
+  
 </div>
