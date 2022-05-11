@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love cat's, coffee and i dream with an internaction trip to USA someday, maybe NY.
 
 - Techs that i know about:
--
+
 <div>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"  width="40" height="40"/>
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"  width="40" height="40"/>
  </div> 
 
--Contact-me
+- Contact-me
 
 <div>
 
