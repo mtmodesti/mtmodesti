@@ -7,7 +7,7 @@ Welcome to my github profile!
 
 - 👯 I’m looking to collaborate on some project where i can learn and dedicate me free time. I love learning and will be grateful to join a team. 
 
-- 🤔 I'm looking and would be very grateful with some indication for a project or some tips and tricks of new courses or techs that i can learn to improve myself as a develope
+- 🤔 I'm looking and would be very grateful with some indication for a project or some tips and tricks of new courses or techs that i can learn to improve myself as a developer
 
 - 💬 Ask me about anything you want and i will answer as soon as i can. 
 
