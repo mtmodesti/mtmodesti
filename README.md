@@ -1,5 +1,8 @@
 ### 👋 Hi there, my name is Marcelo Teixeira Modesti 👋
-Welcome to my github profile! 
+
+<p class='a'> Welcome to my github profile! 
+<img src="https://www.pngkey.com/png/detail/192-1923064_new-github-octocat-github-octocat.png"  width="90" height="90" alt="New Github Octocat - Github Octocat@pngkey.com">
+
 
 - 🔭 I’m currently working on my persoanl projects and looking for a initial job as a junior frontend developer, you can check all of it in my personal website: www.marcelomodesti.com
 
