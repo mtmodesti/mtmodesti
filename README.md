@@ -1,6 +1,6 @@
-### 👋 Hi there, my name is Marcelo Teixeira Modesti 👋
+### :blush: Hi there, my name is Marcelo Teixeira Modesti :blush:
 
-<p class='a'> Welcome to my github profile! />
+Welcome to my github profile! 
 
 
 - 🔭 I’m currently working on my persoanl projects and looking for a initial job as a junior frontend developer, you can check all of it in my personal website: www.marcelomodesti.com - or also you can check my repos here if you wanna see the codes.
@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on some project where i can learn and dedicate me free time. I love learning and will be grateful to join a team. If you know or has someone, pls tell me and we can do this together. https://docs.djangoproject.com/en/4.0/intro/reusable-apps/
 
-- 🤔 I'm looking and would be very grateful with some indication for a project or some tips and tricks of new courses or techs that i can learn to improve myself as a developer.
+- 🤔 I'm looking and would be very grateful with some:blush: indication for a project or some tips and tricks of new courses or techs that i can learn to improve myself as a developer.
 
 - 💬 Ask me about anything you want and i will answer as soon as i can. 
 
