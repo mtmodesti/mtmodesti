@@ -3,7 +3,7 @@
 Welcome to my github profile! 
 
 
-- 🔭 I’m currently working on my persoanl projects and looking for a initial job as a junior frontend developer, you can check all of it in my personal website: www.marcelomodesti.com - or also you can check my repos here if you wanna see the codes.
+- 🔭 I’m currently working on my persoanl projects and looking for a initial job as a junior frontend developer, you can check all of it in my repos here if you wanna see the codes.
 
 - 🌱 I’m currently learning backend skills as a backend student. Abilities like CRUD's projects in Node.js, TDD with jest as well Python and Django.
 
@@ -55,5 +55,4 @@ Welcome to my github profile!
 <a href="https://www.linkedin.com/in/macelomodesti/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-<a href="https://www.marcelomodesti.com" target="_blank">www.marcelomodesti.com</a>   
   
