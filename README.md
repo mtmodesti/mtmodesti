@@ -7,7 +7,7 @@ Welcome to my github profile!
 
 - 🌱 I’m currently learning backend skills as a backend student. Abilities like CRUD's projects in Node.js, TDD with jest as well Python and Django.
 
-- 👯 I’m looking to collaborate on some project where i can learn and dedicate me free time. I love learning and will be grateful to join a team. If you know or has someone, pls tell me and we can do this together. https://docs.djangoproject.com/en/4.0/intro/reusable-apps/
+- 👯 I’m looking to collaborate on some project where i can learn and dedicate me free time. I love learning and will be grateful to join a team. If you know or has someone, pls tell me and we can do this together. 
 
 - 🤔 I'm looking and would be very grateful with some:blush: indication for a project or some tips and tricks of new courses or techs that i can learn to improve myself as a developer.
 
