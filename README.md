@@ -2,22 +2,17 @@
 
 Welcome to my github profile! 
 
+🌱🌱
 
-- 🔭 I’m currently working on my persoanl projects and looking for a initial job as a junior frontend developer, you can check all of it in my repos here if you wanna see the codes.
+I am currently tutoring students in an intensive bootcamp to train fullstack developers in a one-year course. I guide in activities and concepts, as well as corrections and applications of WB and 1:1.
 
-- 🌱 I’m currently learning backend skills as a backend student. Abilities like CRUD's projects in Node.js, TDD with jest as well Python and Django.
+🔭🔭
 
-- 👯 I’m looking to collaborate on some project where i can learn and dedicate me free time. I love learning and will be grateful to join a team. If you know or has someone, pls tell me and we can do this together. 
+I am also looking for a position as a junior developer to put my skills into practice and have the possibility to work on big projects, thus developing my potential and contributing positively to the team. I also have a degree and experience of 7 years as a clinical psychologist.
 
-- 🤔 I'm looking and would be very grateful with some:blush: indication for a project or some tips and tricks of new courses or techs that i can learn to improve myself as a developer.
+⚡⚡
 
-- 💬 Ask me about anything you want and i will answer as soon as i can. 
-
-- 📫 How to reach me: You can contact me through the links at the end of this section.
-
-- 😄 Pronouns: I like to be called by the pronouns He/His
-
-- ⚡ Fun fact: I love cat's, coffee and i dream with an internaction trip to USA someday, maybe NY.
+Fun fact: I love cat's, coffee and i dream with an internaction trip to USA someday, maybe NY.
 
 <div style="text-align: center">  <img src="https://github-readme-stats.vercel.app/api?username=mtmodesti&count_private=true&show_icons=true&theme=prussian" width="400"><br />  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wsfuller&hide=php&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" /></div>
 
