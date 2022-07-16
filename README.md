@@ -4,11 +4,15 @@ Welcome to my github profile!
 
 🌱🌱
 
-I am currently tutoring students in an intensive bootcamp to train fullstack developers in a one-year course. I guide in activities and concepts, as well as corrections and applications of WB and 1:1.
+Today I'm a front end developer and Enacom Group ( <a href='https://www.enacom.com.br/' target='_blank'> Check here </a> )
+
+I also work in software and webpage development together with a team of developers.
+
+I tutored students in an intensive bootcamp to train fullstack developers in a one-year course. I guide in activities and concepts, as well as corrections and applications of WB and 1:1. I remained in this apposition for 11 months at Kenzie Academy Brasil.
 
 🔭🔭
 
-I am also looking for a position as a junior developer to put my skills into practice and have the possibility to work on big projects, thus developing my potential and contributing positively to the team. I also have a degree and experience of 7 years as a clinical psychologist.
+I got strong soft skills due to my background as a clinical psychologist for 7 years, that was before my dive into the technology world as a developer.
 
 ⚡⚡
 
