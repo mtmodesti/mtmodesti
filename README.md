@@ -4,7 +4,7 @@ Welcome to my github profile!
 
 🌱🌱
 
-Today I'm a front end developer and Enacom Group ( <a href='https://www.enacom.com.br/' target='_blank'> Check here </a> )
+Today I'm a front end developer and Enacom Group ( <a href='https://www.enacom.com.br/' target="_blank"> Check here </a> )
 
 I also work in software and webpage development together with a team of developers.
 
