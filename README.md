@@ -8,7 +8,7 @@ Today I'm a front end developer at Enacom Group ( <a href='https://www.enacom.co
 
 I also work in software and webpage development together with a team of developers.
 
-I tutored students in an intensive bootcamp to train fullstack developers in a one-year course. I guide in activities and concepts, as well as corrections and applications of WB and 1:1. I remained in this apposition for 11 months at Kenzie Academy Brasil.
+I tutored students in an intensive bootcamp to train fullstack developers in a one-year course. I guided in activities and concepts, as well as corrections and applications of WB and 1:1. I remained in this apposition for 11 months at Kenzie Academy Brasil.
 
 🔭🔭
 
@@ -35,13 +35,15 @@ Fun fact: I love cat's, coffee and i dream with an internaction trip to USA some
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"  width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"  width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"  width="40" height="40"/>
+
 </div>
                                         
 🌱 Techs that i'm learning about 🌱
     
   <div>
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"  width="40" height="40"/>
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"  width="40" height="40"/>
       
  </div> 
